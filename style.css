@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    margin-top: 200px;
+  }
+  
+  #clock {
+    font-size: 48px;
+  }
+  
+  #temperature {
+    font-size: 24px;
+  }
+  
+  #date {
+    font-size: 24px;
+  }
+  
